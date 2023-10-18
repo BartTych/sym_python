@@ -1,0 +1,2 @@
+DC_size, DC_shift, sort_size, sort_shift
+20.0,6.0,40.0,0
